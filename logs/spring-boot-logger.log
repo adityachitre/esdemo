@@ -1,0 +1,18 @@
+2019-07-15 21:26:39,762 INFO org.springframework.boot.StartupInfoLogger [main] Starting EsdemoApplication on 192-168-1-101.tpgi.com.au with PID 94509 (/Users/adityachitre/dev/workspace/esdemo/out/production/classes started by adityachitre in /Users/adityachitre/dev/workspace/esdemo)
+2019-07-15 21:26:39,772 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-15 21:26:39,773 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-07-15 21:26:41,217 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2019-07-15 21:26:41,236 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:26:41,252 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2019-07-15 21:26:41,252 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-15 21:26:41,366 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2019-07-15 21:26:41,367 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1486 ms
+2019-07-15 21:26:41,901 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-15 21:26:42,079 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2019-07-15 21:26:42,100 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-15 21:26:42,107 INFO org.springframework.boot.StartupInfoLogger [main] Started EsdemoApplication in 3.128 seconds (JVM running for 4.34)
+2019-07-15 21:26:57,584 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-15 21:26:57,585 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2019-07-15 21:26:57,592 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 7 ms
+2019-07-15 21:27:49,605 DEBUG com.learn.esdemo.repositories.ESRepository [http-nio-8080-exec-3] doc created
+2019-07-15 21:27:59,834 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-2] Shutting down ExecutorService 'applicationTaskExecutor'
